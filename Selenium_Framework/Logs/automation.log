@@ -1,0 +1,680 @@
+
+2024-06-25 17:40:42,282 - root - INFO - ************ Test_001_login ******************
+2024-06-25 17:40:42,283 - root - INFO - ************ verifying home page ******************
+2024-06-25 17:40:43,936 - root - INFO - ************ Home test page is passed ******************
+2024-06-25 17:40:46,726 - root - INFO - ************ Test_002_login ******************
+2024-06-25 17:40:46,726 - root - INFO - ************ verifying login page ******************
+2024-06-25 17:40:50,427 - root - INFO - ************ login test is passed ******************
+2024-06-25 17:44:31,309 - root - INFO - ************ Test_001_login ******************
+2024-06-25 17:44:31,310 - root - INFO - ************ verifying home page ******************
+2024-06-25 17:44:32,931 - root - INFO - ************ Home test page is passed ******************
+2024-06-25 17:44:34,158 - root - INFO - ************ Test_002_login ******************
+2024-06-25 17:44:34,159 - root - INFO - ************ verifying login page ******************
+2024-06-25 17:44:39,431 - root - INFO - ************ login test is passed ******************
+2024-06-25 17:47:58,702 - root - INFO - ************ Test_001_login ******************
+2024-06-25 17:47:58,703 - root - INFO - ************ verifying home page ******************
+2024-06-25 17:47:58,906 - root - INFO - ************ Test_002_login ******************
+2024-06-25 17:47:58,906 - root - INFO - ************ verifying login page ******************
+2024-06-25 17:48:00,534 - root - INFO - ************ Home test page is passed ******************
+2024-06-25 17:48:05,605 - root - INFO - ************ login test is passed ******************
+2024-06-25 19:42:36,302 - root - INFO - ************ Test_001_login ******************
+2024-06-25 19:42:36,303 - root - INFO - ************ verifying home page ******************
+2024-06-25 19:42:37,090 - root - INFO - ************ Home test page is passed ******************
+2024-06-25 19:42:40,918 - root - INFO - ************ Test_002_login ******************
+2024-06-25 19:42:40,918 - root - INFO - ************ verifying login page ******************
+2024-06-25 19:42:43,890 - root - INFO - ************ login test is passed ******************
+2024-06-25 19:48:33,584 - root - INFO - ************ Test_001_login ******************
+2024-06-25 19:48:33,584 - root - INFO - ************ verifying home page ******************
+2024-06-25 19:48:34,999 - root - INFO - ************ Home test page is passed ******************
+2024-06-25 19:48:36,235 - root - INFO - ************ Test_002_login ******************
+2024-06-25 19:48:36,235 - root - INFO - ************ verifying login page ******************
+2024-06-25 19:48:41,476 - root - INFO - ************ login test is passed ******************
+2024-06-25 19:55:48,466 - root - INFO - ************ Test_001_login ******************
+2024-06-25 19:55:48,467 - root - INFO - ************ verifying home page ******************
+2024-06-25 19:55:49,906 - root - INFO - ************ Home test page is passed ******************
+2024-06-25 19:55:51,186 - root - INFO - ************ Test_002_login ******************
+2024-06-25 19:55:51,186 - root - INFO - ************ verifying login page ******************
+2024-06-25 19:55:55,225 - root - INFO - ************ login test is passed ******************
+2024-06-25 19:56:57,450 - root - INFO - ************ Test_001_login ******************
+2024-06-25 19:56:57,450 - root - INFO - ************ verifying home page ******************
+2024-06-25 19:56:58,864 - root - INFO - ************ Home test page is passed ******************
+2024-06-25 19:57:04,973 - root - INFO - ************ Test_002_login ******************
+2024-06-25 19:57:04,973 - root - INFO - ************ verifying login page ******************
+2024-06-25 19:57:09,849 - root - INFO - ************ login test is passed ******************
+2024-06-25 19:58:37,600 - root - INFO - ************ Test_001_login ******************
+2024-06-25 19:58:37,600 - root - INFO - ************ verifying home page ******************
+2024-06-25 19:58:38,654 - root - INFO - ************ Home test page is passed ******************
+2024-06-25 19:58:39,900 - root - INFO - ************ Test_002_login ******************
+2024-06-25 19:58:39,900 - root - INFO - ************ verifying login page ******************
+2024-06-25 19:58:43,327 - root - INFO - ************ login test is passed ******************
+2024-06-26 10:15:40,112 - root - INFO - ************ Test_001_login ******************
+2024-06-26 10:15:40,113 - root - INFO - ************ verifying home page ******************
+2024-06-26 10:15:43,852 - root - INFO - ************ Home test page is passed ******************
+2024-06-26 10:15:45,075 - root - INFO - ************ Test_002_login ******************
+2024-06-26 10:15:45,075 - root - INFO - ************ verifying login page ******************
+2024-06-26 10:15:51,609 - root - INFO - ************ login test is passed ******************
+2024-06-26 14:07:29,522 - root - INFO - ************ Test_002_login ******************
+2024-06-26 14:07:29,523 - root - INFO - ************ verifying login page ******************
+2024-06-26 14:07:29,544 - root - INFO - ************ Test_001_login ******************
+2024-06-26 14:07:29,546 - root - INFO - ************ verifying home page ******************
+2024-06-26 14:07:31,231 - root - INFO - ************ Home test page is passed ******************
+2024-06-26 14:07:34,453 - root - INFO - ************ login test is passed ******************
+2024-06-26 14:08:49,623 - root - INFO - ************ Test_002_login ******************
+2024-06-26 14:08:49,623 - root - INFO - ************ verifying login page ******************
+2024-06-26 14:08:54,147 - root - INFO - ************ Test_001_login ******************
+2024-06-26 14:08:54,148 - root - INFO - ************ verifying home page ******************
+2024-06-26 14:08:55,448 - root - INFO - ************ login test is passed ******************
+2024-06-26 14:08:55,825 - root - INFO - ************ Home test page is passed ******************
+2024-06-26 14:09:33,548 - root - INFO - ************ Test_002_login ******************
+2024-06-26 14:09:33,548 - root - INFO - ************ verifying login page ******************
+2024-06-26 14:09:33,558 - root - INFO - ************ Test_001_login ******************
+2024-06-26 14:09:33,559 - root - INFO - ************ verifying home page ******************
+2024-06-26 14:09:35,349 - root - INFO - ************ Home test page is passed ******************
+2024-06-26 14:09:38,173 - root - INFO - ************ login test is passed ******************
+2024-06-26 15:04:05,722 - root - INFO - ************ Test_001_login ******************
+2024-06-26 15:04:05,723 - root - INFO - ************ verifying home page ******************
+2024-06-26 15:04:07,260 - root - INFO - ************ Home test page is passed ******************
+2024-06-26 15:04:08,496 - root - INFO - ************ Test_002_login ******************
+2024-06-26 15:04:08,496 - root - INFO - ************ verifying login page ******************
+2024-06-26 15:04:12,376 - root - INFO - ************ login test is passed ******************
+2024-06-26 19:41:51,010 - root - INFO - ************ Test_001_cal ******************
+2024-06-26 19:43:07,224 - root - INFO - ************ Test_001_cal ******************
+2024-06-26 19:44:23,878 - root - INFO - ************ Test_001_cal ******************
+2024-06-26 19:46:16,165 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 09:50:26,417 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 09:57:26,584 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 09:57:47,705 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:04:45,140 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:19:10,296 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:20:29,639 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:22:10,827 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:25:06,261 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:32:52,049 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:37:35,986 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:38:21,114 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:41:09,813 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:57:05,070 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 10:58:10,382 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:35:05,760 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:36:10,452 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:40:07,338 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:40:16,129 - root - INFO - ************ before ******************
+2024-06-27 11:40:16,149 - root - INFO - ************ after ******************
+2024-06-27 11:41:42,939 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:41:50,895 - root - INFO - ************ before ******************
+2024-06-27 11:41:50,919 - root - INFO - ************ after ******************
+2024-06-27 11:43:48,461 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:43:55,208 - root - INFO - ************ before ******************
+2024-06-27 11:43:55,235 - root - INFO - ************ after ******************
+2024-06-27 11:44:58,686 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:45:04,999 - root - INFO - ************ before ******************
+2024-06-27 11:45:05,044 - root - INFO - ************ after ******************
+2024-06-27 11:45:30,257 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:45:35,543 - root - INFO - ************ before ******************
+2024-06-27 11:45:35,585 - root - INFO - ************ after ******************
+2024-06-27 11:49:21,272 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:49:27,140 - root - INFO - ************ before ******************
+2024-06-27 11:49:27,185 - root - INFO - ************ after ******************
+2024-06-27 11:52:37,124 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:52:43,253 - root - INFO - ************ before ******************
+2024-06-27 11:53:56,485 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:54:01,815 - root - INFO - ************ before ******************
+2024-06-27 11:54:17,084 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:54:22,601 - root - INFO - ************ before ******************
+2024-06-27 11:54:22,623 - root - INFO - ************ after ******************
+2024-06-27 11:55:05,188 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 11:55:10,842 - root - INFO - ************ before ******************
+2024-06-27 12:17:56,667 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 12:18:03,567 - root - INFO - ************ before ******************
+2024-06-27 12:18:03,596 - root - INFO - ************ after ******************
+2024-06-27 12:30:56,290 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 12:31:02,079 - root - INFO - ************ before ******************
+2024-06-27 12:31:02,110 - root - INFO - ************ after ******************
+2024-06-27 12:37:50,431 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 12:39:34,740 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 12:41:52,191 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 12:43:15,151 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 12:43:56,386 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 12:45:13,246 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 12:49:14,688 - root - INFO - ************ Test_001_cal ******************
+2024-06-27 12:50:03,764 - root - INFO - ************ Test_001_cal ******************
+2024-07-01 13:58:04,300 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 13:58:04,301 - root - INFO - ************ verifying login page ******************
+2024-07-01 13:59:42,870 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 13:59:42,870 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:01:34,092 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:01:34,093 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:02:36,335 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:02:36,335 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:04:51,840 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:04:51,840 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:12:02,886 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:12:02,887 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:20:35,058 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:20:35,059 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:41:49,895 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:41:49,896 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:42:36,222 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:42:36,223 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:44:36,651 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:44:36,651 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:46:44,723 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:46:44,723 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:50:15,464 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:50:15,464 - root - INFO - ************ verifying login page ******************
+2024-07-01 14:52:05,480 - root - INFO - ************ addcoustmerpage ******************
+2024-07-01 14:52:05,481 - root - INFO - ************ verifying login page ******************
+2024-07-02 10:10:49,736 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 10:10:49,737 - root - INFO - ************ verifying login page ******************
+2024-07-02 10:10:53,426 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 10:10:53,427 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 12:13:05,611 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 12:13:05,612 - root - INFO - ************ verifying login page ******************
+2024-07-02 12:13:09,707 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 12:13:09,707 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 12:13:14,244 - root - INFO - ************ Add new is successful******************
+2024-07-02 12:13:14,244 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 12:16:21,212 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 12:16:21,213 - root - INFO - ************ verifying login page ******************
+2024-07-02 12:16:24,393 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 12:16:24,393 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 12:16:27,900 - root - INFO - ************ Add new is successful******************
+2024-07-02 12:16:27,900 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 12:18:25,061 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 12:18:25,062 - root - INFO - ************ verifying login page ******************
+2024-07-02 12:18:28,578 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 12:18:28,578 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 12:18:32,375 - root - INFO - ************ Add new is successful******************
+2024-07-02 12:18:32,375 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 12:19:23,093 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 12:19:23,093 - root - INFO - ************ verifying login page ******************
+2024-07-02 12:19:26,617 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 12:19:26,617 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 12:19:30,513 - root - INFO - ************ Add new is successful******************
+2024-07-02 12:19:30,513 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 13:25:06,050 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 13:25:06,051 - root - INFO - ************ verifying login page ******************
+2024-07-02 13:25:09,325 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 13:25:09,325 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 13:25:12,255 - root - INFO - ************ Add new is successful******************
+2024-07-02 13:25:12,255 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 13:25:55,062 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 13:25:55,063 - root - INFO - ************ verifying login page ******************
+2024-07-02 13:25:58,058 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 13:25:58,058 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 13:26:01,052 - root - INFO - ************ Add new is successful******************
+2024-07-02 13:26:01,052 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 13:26:56,927 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 13:26:56,928 - root - INFO - ************ verifying login page ******************
+2024-07-02 13:26:59,952 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 13:26:59,952 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 13:27:03,293 - root - INFO - ************ Add new is successful******************
+2024-07-02 13:27:03,293 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 13:27:45,305 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 13:27:45,306 - root - INFO - ************ verifying login page ******************
+2024-07-02 13:27:48,547 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 13:27:48,547 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 13:27:51,506 - root - INFO - ************ Add new is successful******************
+2024-07-02 13:27:51,506 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 14:40:14,300 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 14:40:14,301 - root - INFO - ************ verifying login page ******************
+2024-07-02 14:40:17,675 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 14:40:17,675 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 14:40:21,295 - root - INFO - ************ Add new is successful******************
+2024-07-02 14:40:21,296 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 14:42:37,510 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 14:42:37,510 - root - INFO - ************ verifying login page ******************
+2024-07-02 14:42:40,568 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 14:42:40,568 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 14:42:43,587 - root - INFO - ************ Add new is successful******************
+2024-07-02 14:42:43,587 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 14:44:35,296 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 14:44:35,296 - root - INFO - ************ verifying login page ******************
+2024-07-02 14:44:37,855 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 14:44:37,855 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 14:44:40,134 - root - INFO - ************ Add new is successful******************
+2024-07-02 14:44:40,135 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 14:52:25,847 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 14:52:25,847 - root - INFO - ************ verifying login page ******************
+2024-07-02 14:52:28,863 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 14:52:28,863 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 14:52:31,726 - root - INFO - ************ Add new is successful******************
+2024-07-02 14:52:31,726 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 14:53:37,412 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 14:53:37,412 - root - INFO - ************ verifying login page ******************
+2024-07-02 14:53:40,549 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 14:53:40,549 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 14:53:43,486 - root - INFO - ************ Add new is successful******************
+2024-07-02 14:53:43,486 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 14:54:31,576 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 14:54:31,576 - root - INFO - ************ verifying login page ******************
+2024-07-02 14:54:34,677 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 14:54:34,677 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 14:54:37,549 - root - INFO - ************ Add new is successful******************
+2024-07-02 14:54:37,549 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 14:56:11,522 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 14:56:11,523 - root - INFO - ************ verifying login page ******************
+2024-07-02 14:56:14,534 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 14:56:14,534 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 14:56:17,761 - root - INFO - ************ Add new is successful******************
+2024-07-02 14:56:17,761 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 14:57:00,316 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 14:57:00,317 - root - INFO - ************ verifying login page ******************
+2024-07-02 14:57:03,338 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 14:57:03,339 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 14:57:06,286 - root - INFO - ************ Add new is successful******************
+2024-07-02 14:57:06,287 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 14:59:57,967 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 14:59:57,967 - root - INFO - ************ verifying login page ******************
+2024-07-02 15:00:01,069 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 15:00:01,069 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 15:00:04,270 - root - INFO - ************ Add new is successful******************
+2024-07-02 15:00:04,271 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 15:11:55,809 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 15:11:55,810 - root - INFO - ************ verifying login page ******************
+2024-07-02 15:11:59,338 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 15:11:59,338 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 15:12:02,557 - root - INFO - ************ Add new is successful******************
+2024-07-02 15:12:02,557 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 15:12:13,128 - root - INFO - ************ provided the coustmer info.******************
+2024-07-02 15:12:13,224 - root - INFO - ************ Test Case is passed******************
+2024-07-02 15:12:13,332 - root - INFO - ************ Ended.******************
+2024-07-02 17:27:21,231 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 17:27:21,232 - root - INFO - ************ verifying login page ******************
+2024-07-02 17:27:24,407 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 17:27:24,407 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 17:27:27,970 - root - INFO - ************ Add new is successful******************
+2024-07-02 17:27:27,970 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 17:28:33,204 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 17:28:33,204 - root - INFO - ************ verifying login page ******************
+2024-07-02 17:28:36,140 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 17:28:36,140 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 17:28:39,386 - root - INFO - ************ Add new is successful******************
+2024-07-02 17:28:39,386 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 17:28:54,477 - root - INFO - ************ provided the coustmer info.******************
+2024-07-02 17:28:54,973 - root - INFO - ************ Test Case is passed******************
+2024-07-02 17:28:55,064 - root - INFO - ************ Ended.******************
+2024-07-02 17:30:55,722 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 17:30:55,723 - root - INFO - ************ verifying login page ******************
+2024-07-02 17:30:58,847 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 17:30:58,847 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 17:31:01,819 - root - INFO - ************ Add new is successful******************
+2024-07-02 17:31:01,820 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 17:31:12,408 - root - INFO - ************ provided the coustmer info.******************
+2024-07-02 17:31:12,507 - root - INFO - ************ Test Case is passed******************
+2024-07-02 17:31:12,611 - root - INFO - ************ Ended.******************
+2024-07-02 17:36:21,727 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 17:36:21,728 - root - INFO - ************ verifying login page ******************
+2024-07-02 17:36:39,947 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 17:36:39,947 - root - INFO - ************ verifying login page ******************
+2024-07-02 17:36:43,201 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 17:36:43,201 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 17:36:47,772 - root - INFO - ************ Add new is successful******************
+2024-07-02 17:36:47,772 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 17:36:57,958 - root - INFO - ************ provided the coustmer info.******************
+2024-07-02 17:39:49,879 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 17:39:49,880 - root - INFO - ************ verifying login page ******************
+2024-07-02 17:39:54,009 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 17:39:54,009 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 17:41:00,021 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 17:41:00,022 - root - INFO - ************ verifying login page ******************
+2024-07-02 17:41:05,636 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 17:41:05,636 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 17:43:39,815 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 17:43:39,815 - root - INFO - ************ verifying login page ******************
+2024-07-02 17:43:44,601 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 17:43:44,601 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 17:43:47,630 - root - INFO - ************ Add new is successful******************
+2024-07-02 17:43:47,630 - root - INFO - ************ providing coustmer info.******************
+2024-07-02 17:43:58,357 - root - INFO - ************ provided the coustmer info.******************
+2024-07-02 17:43:58,488 - root - INFO - ************ Test Case is passed******************
+2024-07-02 17:43:58,595 - root - INFO - ************ Ended.******************
+2024-07-02 17:44:49,674 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 17:44:49,674 - root - INFO - ************ verifying login page ******************
+2024-07-02 17:44:52,715 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 17:44:52,715 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 17:44:55,669 - root - INFO - ************ Add new is successful******************
+2024-07-02 17:45:32,093 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 17:45:32,094 - root - INFO - ************ verifying login page ******************
+2024-07-02 17:45:35,069 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 17:45:35,069 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 17:45:37,334 - root - INFO - ************ Add new is successful******************
+2024-07-02 18:00:47,524 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 18:00:47,524 - root - INFO - ************ verifying login page ******************
+2024-07-02 18:00:50,487 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 18:00:50,487 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 18:00:52,828 - root - INFO - ************ customer page is successful******************
+2024-07-02 18:00:52,829 - root - INFO - ************ search by Email.******************
+2024-07-02 18:01:45,304 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 18:01:45,305 - root - INFO - ************ verifying login page ******************
+2024-07-02 18:01:48,401 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 18:01:48,401 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 18:01:50,962 - root - INFO - ************ customer page is successful******************
+2024-07-02 18:01:50,962 - root - INFO - ************ search by Email.******************
+2024-07-02 20:06:17,877 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 20:06:17,878 - root - INFO - ************ verifying login page ******************
+2024-07-02 20:06:20,522 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 20:06:20,522 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 20:07:02,452 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 20:07:02,453 - root - INFO - ************ verifying login page ******************
+2024-07-02 20:07:07,108 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 20:07:07,108 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 20:07:09,684 - root - INFO - ************ customer page is successful******************
+2024-07-02 20:07:09,684 - root - INFO - ************ search by Email.******************
+2024-07-02 20:07:09,924 - root - INFO - ************ Validation.******************
+2024-07-02 20:08:49,954 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 20:08:49,954 - root - INFO - ************ verifying login page ******************
+2024-07-02 20:08:53,013 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 20:08:53,013 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 20:08:55,295 - root - INFO - ************ customer page is successful******************
+2024-07-02 20:08:55,295 - root - INFO - ************ search by Email.******************
+2024-07-02 20:08:55,945 - root - INFO - ************ Validation.******************
+2024-07-02 20:08:55,978 - root - INFO - ************ Test Case passed******************
+2024-07-02 20:12:19,148 - root - INFO - ************ addcoustmerpage ******************
+2024-07-02 20:12:19,148 - root - INFO - ************ verifying login page ******************
+2024-07-02 20:12:22,355 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-02 20:12:22,355 - root - INFO - ************ moving to coustermer page ******************
+2024-07-02 20:12:24,866 - root - INFO - ************ customer page is successful******************
+2024-07-02 20:12:24,866 - root - INFO - ************ search by Email.******************
+2024-07-02 20:12:25,560 - root - INFO - ************ Validation.******************
+2024-07-02 20:12:25,593 - root - INFO - ************ Test Case passed******************
+2024-07-03 09:37:04,806 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 09:37:04,807 - root - INFO - ************ verifying login page ******************
+2024-07-03 09:37:09,207 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 09:37:09,207 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 09:37:11,933 - root - INFO - ************ customer page is successful******************
+2024-07-03 09:37:11,933 - root - INFO - ************ search by Email.******************
+2024-07-03 09:37:12,822 - root - INFO - ************ Validation.******************
+2024-07-03 09:37:12,870 - root - INFO - ************ Test Case passed******************
+2024-07-03 09:37:14,360 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 09:37:14,360 - root - INFO - ************ verifying login page ******************
+2024-07-03 09:37:18,297 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 09:37:18,297 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 09:37:20,649 - root - INFO - ************ customer page is successful******************
+2024-07-03 09:37:20,649 - root - INFO - ************ search by Name.******************
+2024-07-03 09:37:21,731 - root - INFO - ************ Validation.******************
+2024-07-03 09:37:21,811 - root - INFO - ************ Test Case passed******************
+2024-07-03 15:56:15,746 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 15:56:15,746 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 15:56:15,746 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 15:56:15,746 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 15:56:15,747 - root - INFO - ************ verifying login page ******************
+2024-07-03 15:56:15,747 - root - INFO - ************ verifying login page ******************
+2024-07-03 15:56:15,747 - root - INFO - ************ verifying login page ******************
+2024-07-03 15:56:15,747 - root - INFO - ************ verifying login page ******************
+2024-07-03 15:56:21,050 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 15:56:21,050 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 15:56:21,050 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 15:56:21,050 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 15:56:21,051 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 15:56:21,051 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 15:56:21,051 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 15:56:21,051 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 15:56:23,527 - root - INFO - ************ customer page is successful******************
+2024-07-03 15:56:23,527 - root - INFO - ************ customer page is successful******************
+2024-07-03 15:56:23,527 - root - INFO - ************ customer page is successful******************
+2024-07-03 15:56:23,527 - root - INFO - ************ customer page is successful******************
+2024-07-03 15:56:23,527 - root - INFO - ************ search by Name.******************
+2024-07-03 15:56:23,527 - root - INFO - ************ search by Name.******************
+2024-07-03 15:56:23,527 - root - INFO - ************ search by Name.******************
+2024-07-03 15:56:23,527 - root - INFO - ************ search by Name.******************
+2024-07-03 15:56:24,329 - root - INFO - ************ Validation.******************
+2024-07-03 15:56:24,329 - root - INFO - ************ Validation.******************
+2024-07-03 15:56:24,329 - root - INFO - ************ Validation.******************
+2024-07-03 15:56:24,329 - root - INFO - ************ Validation.******************
+2024-07-03 15:56:24,797 - root - INFO - ************ Test Case passed******************
+2024-07-03 15:56:24,797 - root - INFO - ************ Test Case passed******************
+2024-07-03 15:56:24,797 - root - INFO - ************ Test Case passed******************
+2024-07-03 15:56:24,797 - root - INFO - ************ Test Case passed******************
+2024-07-03 15:56:26,108 - root - INFO - ************ Test_001_login ******************
+2024-07-03 15:56:26,108 - root - INFO - ************ Test_001_login ******************
+2024-07-03 15:56:26,108 - root - INFO - ************ Test_001_login ******************
+2024-07-03 15:56:26,108 - root - INFO - ************ Test_001_login ******************
+2024-07-03 15:56:26,109 - root - INFO - ************ verifying home page ******************
+2024-07-03 15:56:26,109 - root - INFO - ************ verifying home page ******************
+2024-07-03 15:56:26,109 - root - INFO - ************ verifying home page ******************
+2024-07-03 15:56:26,109 - root - INFO - ************ verifying home page ******************
+2024-07-03 15:56:33,502 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 15:56:33,502 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 15:56:33,502 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 15:56:33,502 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:31:31,206 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:31:31,206 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:31:31,206 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:31:31,206 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:31:31,207 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:31:31,207 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:31:31,207 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:31:31,207 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:31:34,372 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:31:34,372 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:31:34,372 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:31:34,372 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:31:34,373 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:31:34,373 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:31:34,373 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:31:34,373 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:31:37,424 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:31:37,424 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:31:37,424 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:31:37,424 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:31:37,424 - root - INFO - ************ search by Name.******************
+2024-07-03 19:31:37,424 - root - INFO - ************ search by Name.******************
+2024-07-03 19:31:37,424 - root - INFO - ************ search by Name.******************
+2024-07-03 19:31:37,424 - root - INFO - ************ search by Name.******************
+2024-07-03 19:31:38,192 - root - INFO - ************ Validation.******************
+2024-07-03 19:31:38,192 - root - INFO - ************ Validation.******************
+2024-07-03 19:31:38,192 - root - INFO - ************ Validation.******************
+2024-07-03 19:31:38,192 - root - INFO - ************ Validation.******************
+2024-07-03 19:31:38,224 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:31:38,224 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:31:38,224 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:31:38,224 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:31:39,565 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:31:39,565 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:31:39,565 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:31:39,565 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:31:39,565 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:31:39,565 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:31:39,565 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:31:39,565 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:31:41,061 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:31:41,061 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:31:41,061 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:31:41,061 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:32:38,041 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:32:38,041 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:32:38,041 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:32:38,041 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:32:38,043 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:32:38,043 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:32:38,043 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:32:38,043 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:32:41,463 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:32:41,463 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:32:41,463 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:32:41,463 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:32:41,463 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:32:41,463 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:32:41,463 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:32:41,463 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:32:42,999 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:32:42,999 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:32:42,999 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:32:42,999 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:32:42,999 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:32:42,999 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:32:42,999 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:32:42,999 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:39:06,746 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:39:06,746 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:39:06,746 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:39:06,746 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:39:06,747 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:39:06,747 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:39:06,747 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:39:06,747 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:39:09,997 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:39:09,997 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:39:09,997 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:39:09,997 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:39:09,998 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:39:09,998 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:39:09,998 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:39:09,998 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:39:12,299 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:39:12,299 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:39:12,299 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:39:12,299 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:39:12,299 - root - INFO - ************ search by Name.******************
+2024-07-03 19:39:12,299 - root - INFO - ************ search by Name.******************
+2024-07-03 19:39:12,299 - root - INFO - ************ search by Name.******************
+2024-07-03 19:39:12,299 - root - INFO - ************ search by Name.******************
+2024-07-03 19:39:13,064 - root - INFO - ************ Validation.******************
+2024-07-03 19:39:13,064 - root - INFO - ************ Validation.******************
+2024-07-03 19:39:13,064 - root - INFO - ************ Validation.******************
+2024-07-03 19:39:13,064 - root - INFO - ************ Validation.******************
+2024-07-03 19:39:14,743 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:39:14,743 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:39:14,743 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:39:14,743 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:39:14,743 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:39:14,743 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:39:14,743 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:39:14,743 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:39:29,569 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:39:29,569 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:39:29,569 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:39:29,569 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:41:45,129 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:41:45,129 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:41:45,129 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:41:45,129 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:41:45,130 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:41:45,130 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:41:45,130 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:41:45,130 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:41:48,207 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:41:48,207 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:41:48,207 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:41:48,207 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:41:48,207 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:41:48,207 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:41:48,207 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:41:48,207 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:41:50,483 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:41:50,483 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:41:50,483 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:41:50,483 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:41:50,484 - root - INFO - ************ search by Name.******************
+2024-07-03 19:41:50,484 - root - INFO - ************ search by Name.******************
+2024-07-03 19:41:50,484 - root - INFO - ************ search by Name.******************
+2024-07-03 19:41:50,484 - root - INFO - ************ search by Name.******************
+2024-07-03 19:41:51,263 - root - INFO - ************ Validation.******************
+2024-07-03 19:41:51,263 - root - INFO - ************ Validation.******************
+2024-07-03 19:41:51,263 - root - INFO - ************ Validation.******************
+2024-07-03 19:41:51,263 - root - INFO - ************ Validation.******************
+2024-07-03 19:41:51,298 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:41:51,298 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:41:51,298 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:41:51,298 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:41:52,723 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:41:52,723 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:41:52,723 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:41:52,723 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:41:52,723 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:41:52,723 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:41:52,723 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:41:52,723 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:41:54,228 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:41:54,228 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:41:54,228 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:41:54,228 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:43:04,577 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:43:04,577 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:43:04,577 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:43:04,577 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:43:04,578 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:43:04,578 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:43:04,578 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:43:04,578 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:43:07,733 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:43:07,733 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:43:07,733 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:43:07,733 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:43:07,733 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:43:07,733 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:43:07,733 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:43:07,733 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:43:10,036 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:43:10,036 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:43:10,036 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:43:10,036 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:43:10,036 - root - INFO - ************ search by Name.******************
+2024-07-03 19:43:10,036 - root - INFO - ************ search by Name.******************
+2024-07-03 19:43:10,036 - root - INFO - ************ search by Name.******************
+2024-07-03 19:43:10,036 - root - INFO - ************ search by Name.******************
+2024-07-03 19:43:10,789 - root - INFO - ************ Validation.******************
+2024-07-03 19:43:10,789 - root - INFO - ************ Validation.******************
+2024-07-03 19:43:10,789 - root - INFO - ************ Validation.******************
+2024-07-03 19:43:10,789 - root - INFO - ************ Validation.******************
+2024-07-03 19:43:10,821 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:43:10,821 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:43:10,821 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:43:10,821 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:43:12,142 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:43:12,142 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:43:12,142 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:43:12,142 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:43:12,142 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:43:12,142 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:43:12,142 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:43:12,142 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:43:13,626 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:43:13,626 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:43:13,626 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:43:13,626 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:43:55,808 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:43:55,808 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:43:55,808 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:43:55,808 - root - INFO - ************ addcoustmerpage ******************
+2024-07-03 19:43:55,809 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:43:55,809 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:43:55,809 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:43:55,809 - root - INFO - ************ verifying login page ******************
+2024-07-03 19:43:58,900 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:43:58,900 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:43:58,900 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:43:58,900 - root - INFO - ************ login is successful/you are in dashboard ******************
+2024-07-03 19:43:58,901 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:43:58,901 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:43:58,901 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:43:58,901 - root - INFO - ************ moving to coustermer page ******************
+2024-07-03 19:44:01,195 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:44:01,195 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:44:01,195 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:44:01,195 - root - INFO - ************ customer page is successful******************
+2024-07-03 19:44:01,195 - root - INFO - ************ search by Name.******************
+2024-07-03 19:44:01,195 - root - INFO - ************ search by Name.******************
+2024-07-03 19:44:01,195 - root - INFO - ************ search by Name.******************
+2024-07-03 19:44:01,195 - root - INFO - ************ search by Name.******************
+2024-07-03 19:44:01,970 - root - INFO - ************ Validation.******************
+2024-07-03 19:44:01,970 - root - INFO - ************ Validation.******************
+2024-07-03 19:44:01,970 - root - INFO - ************ Validation.******************
+2024-07-03 19:44:01,970 - root - INFO - ************ Validation.******************
+2024-07-03 19:44:02,004 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:44:02,004 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:44:02,004 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:44:02,004 - root - INFO - ************ Test Case passed******************
+2024-07-03 19:44:03,306 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:44:03,306 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:44:03,306 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:44:03,306 - root - INFO - ************ Test_001_login ******************
+2024-07-03 19:44:03,307 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:44:03,307 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:44:03,307 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:44:03,307 - root - INFO - ************ verifying home page ******************
+2024-07-03 19:44:05,560 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:44:05,560 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:44:05,560 - root - INFO - ************ Home test page is passed ******************
+2024-07-03 19:44:05,560 - root - INFO - ************ Home test page is passed ******************
